@@ -5,7 +5,7 @@ Figma link:- https://www.figma.com/file/mibySMOuB5cbsZGbazFeh9/Food-Web?type=des
 Video link:- https://www.loom.com/share/c0cc5ede6803457d82e8cdf32224af65?sid=979ae38f-bc9a-4913-b906-2099a97c12dd
 
 
-Idea credits:- Vijay
+Idea credits:- Vijay,
 Design and website development credits:- Samarth S Alva,Proud Kalvian.
-API Website credits:-https://www.themealdb.com/api.php
-Reference website credits:- TheMealDB.com
+API Website credits:-https://www.themealdb.com/api.php ,
+Reference website credits:- TheMealDB.com .
